@@ -18,3 +18,6 @@ Purchase Frequency = Total Transaction / Total Number of Customer
 Churn Rate = 1 - Repeat Rate(Retention Rate)
 
 Profit Margin = Total Price x Profit
+
+
+End of these whole calculations, you can easily complete the customer segmentation. 
